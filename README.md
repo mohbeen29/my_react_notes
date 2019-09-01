@@ -31,3 +31,7 @@ function titles(props){
     )
 }
 ```
+
+### When component isn't rendered (perhaps blank?)
+
+React component names need to start with caps letter.
